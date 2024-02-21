@@ -72,3 +72,4 @@ You also should be familiar with some basic and advanced Linux terminal commands
 
 You should be able to use these commands comfortably and understand their options and parameters. 
 You should also understand the concept of Linux file permissions and know how to use pipes (`|`) and redirection (`>`, `>>`, `<`).
+
