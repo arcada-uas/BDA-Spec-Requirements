@@ -88,8 +88,25 @@ Knowledge of these terminal commands ensures a deeper understanding of computer 
 - `kill`: Send a signal to a process.
 - `curl`: Transfer data to or from a server.  
 - `scp`: Securely copy files between a local host and a remote host or between two remote hosts.  
- - `rsync`: Only transfers the changes made rather than transferring all the files again.
+- `rsync`: Only transfers the changes made rather than transferring all the files again.
 
 You should be able to use these Linux commands comfortably and understand their options and parameters. 
 You should also understand the concept of Linux file permissions and know how to use pipes (`|`) and redirection (`>`, `>>`, `<`).
 
+## Resources
+
+[https://www.learnpython.org/](https://www.learnpython.org/)
+- Offers a free interactive Python tutorial that is perfect for both beginners and experienced programmers.
+It covers everything from the basics to more advanced topics, including data science tutorials.
+The website is designed to make learning Python accessible and straightforward, with the option to join a community group for discussions and updates.
+
+[https://www.codecademy.com/learn/learn-python](https://www.codecademy.com/learn/learn-python)
+- This course is a great introduction to both fundamental programming concepts and the Python programming language.
+By the end, you’ll be comfortable programming in Python and taking your skills off the Codecademy platform and onto your own computer.
+
+[https://labex.io/courses/linux-basic-commands-practice-online](https://labex.io/courses/linux-basic-commands-practice-online)
+- In this course, you will practice the most commonly used Linux commands.
+You will learn how to use the commands to manage files and directories, search for files, and process text. You will also learn how to use the commands to check the disk usage, and measure the time of command execution.
+
+[https://linuxsurvival.com/](https://linuxsurvival.com/)
+- Linux Survival is a free tutorial designed to make it as easy as possible to learn Linux. Even though Linux has hundreds of commands, there are only about a dozen you need to know to perform most basic tasks.
