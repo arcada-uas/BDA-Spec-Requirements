@@ -59,11 +59,15 @@ Your code writing style should be clear, concise, and efficient. Avoid excessive
 
 ## Basic Linux Terminal Commands
 
-- `man`: Display the user manual of a command.
+Being comfortable with basic Linux terminal commands is essential to interact with Linux-based systems efficiently. 
+These skills are indispensable for software and data engineers, whom our program is targeting. 
+Knowledge of these terminal commands ensures a deeper understanding of computer systems and equips you with the tools needed for professional development in technology fields.
+
+- `man`: Display the user manual of a command
 - `ssh`: Secure shell remote login.
 - `ls`: List directory contents.
 - `cd`: Change the current directory.
-- `pwd`: Print the name of the current directory.
+- `pwd`: Print the name of the current directory
 - `cp`: Copy files and directories.
 - `mv`: Move or rename files and directories.
 - `rm`: Remove files and directories.
